@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062775798055",
+    "project_id": "calculatorapp-7e410",
+    "storage_bucket": "calculatorapp-7e410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062775798055:android:77bea72d9675e693885102",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062775798055-fn57hsd8h4et5vfovjbpgsk5kc3niapo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK5IXDB5ECddgo65rN35ggO8hbXjX5Qes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062775798055-fn57hsd8h4et5vfovjbpgsk5kc3niapo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
